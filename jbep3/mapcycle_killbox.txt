@@ -1,0 +1,12 @@
+MapCycle
+{
+
+	jb_killbox
+	{
+		gamemodes
+		{
+			deathmatch 1
+		}
+	}
+
+}

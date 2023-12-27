@@ -1,0 +1,4 @@
+force_install_dir /home/steam/.steam/steamcmd/jbep3_server/
+login anonymous
+app_update 869800
+quit
