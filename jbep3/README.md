@@ -20,7 +20,7 @@ SHELL=/bin/bash
 
 ## SRCDS Installation
 
-Install the game server using [SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD) like you would with any other Source game server, using app id `869800`.
+Install the game server using [SteamCMD](https://developer.valvesoftware.com/wiki/SteamCMD) like you would with any other Source game server, using app id `869800`. There is also a very good guide on the Steam Community: [Jabroni Brawl: Episode 3 - The Dedicated Server Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1527732439)
 
 Create a GSLT Token on the [Steam Game Server Account Management](https://steamcommunity.com/dev/managegameservers) for use in the start script. 
 
